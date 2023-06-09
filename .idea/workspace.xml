@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d1bbda4-a1b9-4436-876f-4800d0017cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basicSelenium/CRUDItemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basicSelenium/CRUDProjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basicSelenium/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basicSelenium/SeleniumTest.java" afterDir="false" />
+    <list default="true" id="6d1bbda4-a1b9-4436-876f-4800d0017cf0" name="Changes" comment="Tarea completa en CRUDItemTest.java">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/basicSelenium/CRUDItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basicSelenium/CRUDItemTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,20 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Gradle.CRUDItemTest.verifyDeleteItem">
+}</component>
+  <component name="RunManager" selected="Gradle.CRUDItemTest">
     <configuration name="CRUDItemTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -195,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CRUDItemTest.verifyDeleteItem" />
-        <item itemvalue="Gradle.CRUDItemTest.verifyEditItem" />
-        <item itemvalue="Gradle.CRUDItemTest.verifyCreateItem" />
         <item itemvalue="Gradle.CRUDItemTest" />
         <item itemvalue="Gradle.CRUDItemTest.verifyCRUDItem" />
+        <item itemvalue="Gradle.CRUDItemTest.verifyEditItem" />
+        <item itemvalue="Gradle.CRUDItemTest.verifyCreateItem" />
+        <item itemvalue="Gradle.CRUDItemTest.verifyDeleteItem" />
       </list>
     </recent_temporary>
   </component>
@@ -211,11 +200,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686310836793</updated>
-      <workItem from="1686310837801" duration="9191000" />
+      <workItem from="1686310837801" duration="9703000" />
+      <workItem from="1686344274878" duration="912000" />
     </task>
+    <task id="LOCAL-00001" summary="Tarea completa en CRUDItemTest.java">
+      <created>1686322255233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686322255233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea completa en CRUDItemTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea completa en CRUDItemTest.java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/basicSelenium/CRUDItemTest.java</url>
+          <line>52</line>
+          <properties class="basicSelenium.CRUDItemTest" method="verifyEditItem">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
